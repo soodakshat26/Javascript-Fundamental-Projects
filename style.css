@@ -1,0 +1,14 @@
+.links {
+    background-color: rgb(6, 170, 116);
+    color: white;
+    border-radius: 8px;
+    padding: 10px 30px;
+    border: 2px solid blue;
+    margin-top: 5px;
+}
+
+.projects  {
+    display:flex;
+    flex-direction:column;
+    gap: 10px;
+}
